@@ -22,7 +22,7 @@ It is used strictly for learning and academic purposes.
 - Basic Data Cleaning
 
 📊 Dashboard Preview
-![Dashboard](Dashboard.png.png)
+![Dashboard](Dashboard.png)
 
 📁 Files in this Repository
 
