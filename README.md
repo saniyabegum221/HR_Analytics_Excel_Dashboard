@@ -24,6 +24,12 @@ It is used strictly for learning and academic purposes.
 📊 Dashboard Preview
 ![Dashboard](Dashboard.png)
 
+How to Use
+1. Download the Excel file.
+2. Open using Microsoft Excel.
+3. Enable editing if prompted.
+4. Dashboard is connected to pivot tables in the workbook.
+
 📁 Files in this Repository
 
 | File Name | Description |
